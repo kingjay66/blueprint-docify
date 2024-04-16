@@ -7,7 +7,7 @@
   "dependencies": {
     "aglio": "^1.14.0",
     "async": "^0.9.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.17",
     "node-fs": "^0.1.7"
   }
 }
